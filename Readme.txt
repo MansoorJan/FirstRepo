@@ -1,2 +1,2 @@
 This is readme file
-This is live session on Git101. 
+This is live session on Git101
